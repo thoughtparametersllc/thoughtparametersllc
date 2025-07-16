@@ -1,12 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Jason Miller</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thoughtoperator/">
-    <img src="https://media.licdn.com/dms/image/v2/D5603AQHx8Yskl8kJjw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1720244181990?e=1748476800&v=beta&t=brdHyIjbzKnRnwF_QmFdI3VUFLJ-okd8rMR_PX5nMHA" width="150" alt="Jason Miller - LinkedIn Profile">
-  </a>
-</p>
-
-<p align="center">
   <strong>🚀 President & Owner | Thought Parameters LLC</strong> <br>
   <em>Cloud Engineering | Cybersecurity | Software Automation</em> <br>
   <a href="https://www.linkedin.com/in/thoughtoperator/">

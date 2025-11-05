@@ -9,7 +9,7 @@ I've spent over 15 years in the DevOps and Cybersecurity space, working with ama
 Currently, I'm focused on:
 - 🔐 **DevSecOps & Cloud Security** - Building secure-by-design infrastructure with automated compliance
 - ☁️ **Multi-Cloud Architecture** - Designing resilient systems across AWS, GCP, and Azure
-- �� **Infrastructure as Code** - Leveraging Terraform, CloudFormation, and modern IaC practices
+- 🏗️ **Infrastructure as Code** - Leveraging Terraform, CloudFormation, and modern IaC practices
 - 🛡️ **Cybersecurity** - Vulnerability management, SIEM operations, and GRC frameworks
 
 ### 💼 Thought Parameters LLC

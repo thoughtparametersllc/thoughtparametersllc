@@ -34,7 +34,7 @@ In 2024, I founded **Thought Parameters LLC**, a computer systems design consult
 
 ### 🎓 Continuous Learning
 
-I'm currently pursuing a Bachelor of Science in Computer Information Systems at DeVry University (expected Sep 2027) and recently completed a Certificate in Cybersecurity with Honors. I'm also an active member of professional organizations including the Linux Foundation, IEEE, and OWASP Foundation.
+I'm currently pursuing a Bachelor of Science in Computer Information Systems at DeVry University (expected Sept 2027) and recently completed a Certificate in Cybersecurity with Honors. I'm also an active member of professional organizations including the Linux Foundation, IEEE, and OWASP Foundation.
 
 ### 📝 Sharing Knowledge
 
